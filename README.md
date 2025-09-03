@@ -50,3 +50,8 @@ Radio: Existe una mayor probabilidad de clasificación maligna para valores de r
 Textura: Los tumores con una textura entre 14 y 27 presentan más posibilidades de ser malignos.
 
 Perímetro: Se ha encontrado una mayor incidencia de tumores malignos con perímetros entre 85 y 140.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Conclusiones
+Podemos conlcuir entonces que las tres variables seleccionadas influyen significativamente en la predicción de la malignidad de los tumores. Nuestro análisis anterior revela que la variación dentro de los rangos definidos para estas características está directamente asociada con una mayor probabilidad de que el tumor sea maligno. Estos hallazgos sugieren que las variables en cuestión son predictores importantes y confiables para diferenciar entre tumores benignos y malignos.
