@@ -21,7 +21,7 @@ Utilizamos un modelo de clasificación simple para predecir si un tumor es malig
 
 ## Minimos y máximos de las variables
 
-Las variables utilizadas en el modelo se encuentran dentro de los siguientes rangos de valores, lo que es crucial para la normalización y el análisis de los datos:
+Las variables utilizadas en el modelo se encuentran dentro de los siguientes rangos de valores.
 
 Radio: de 6.98 a 28.1
 
