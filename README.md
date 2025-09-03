@@ -43,7 +43,7 @@ Perímetro: de 43.8 a 189
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Análisis de datos 
-  El análisis de las predicciones del modelo sugiere una correlación entre los rangos de las variables y la probabilidad aproximada de que un tumor sea clasificado como maligno.       Específicamente, se   observan las siguientes tendencias:
+### El análisis de las predicciones del modelo sugiere una correlación entre los rangos de las variables y la probabilidad aproximada de que un tumor sea clasificado como maligno.       Específicamente, se   observan las siguientes tendencias:
 
 Radio: Existe una mayor probabilidad de clasificación maligna para valores de radio entre 11 y 22.
 
