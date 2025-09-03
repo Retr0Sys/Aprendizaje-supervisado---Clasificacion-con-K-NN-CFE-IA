@@ -32,11 +32,11 @@ Perímetro: de 43.8 a 189
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Ejemplos de predicción
-
+  ### Caso afirmativo
   <img width="1290" height="185" alt="Captura de pantalla 2025-09-02 211642" src="https://github.com/user-attachments/assets/fd5f1166-7cb2-4ed5-abe9-082223ee6e10" />
-
+  ### Caso negativo
   <img width="1289" height="181" alt="Captura de pantalla 2025-09-02 211707" src="https://github.com/user-attachments/assets/9827c202-68ee-4b6d-85fa-507d8dd8f5ec" />
-
+  ### Predicciones varias
   <img width="1285" height="147" alt="image" src="https://github.com/user-attachments/assets/793e927f-22c3-43f0-83cb-fe6f8374de30" />
 
 
