@@ -1,4 +1,4 @@
-# Aprendizaje-supervisado---Clasificaci-n-con-K-NN
+# Aprendizaje-supervisado---Clasificacion-con-K-NN
 Modelo sencillo de clasificación de IA por vecinos, creado en Python.
 
 Utilizamos un modelo de clasificación simple para predecir si un tumor es maligno o benigno utilizando el algoritmo de k-vecinos más cercanos (k-NN). El modelo se entrenó con un conjunto de datos que incluye mediciones de tumores mamarios, lo que permite realizar predicciones basadas en la similitud con casos previamente clasificados.
