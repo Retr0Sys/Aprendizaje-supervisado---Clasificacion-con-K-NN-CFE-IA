@@ -12,7 +12,9 @@ Utilizamos un modelo de clasificación simple para predecir si un tumor es malig
 
 ## Variables seleccionadas
   radius_mean: promedio del radio de las células.
+  
   texture_mean: promedio de la textura de la imagen.
+  
   perimeter_mean: promedio del perímetro de las células.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
